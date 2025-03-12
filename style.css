@@ -141,9 +141,6 @@ p {
     color: gray;
 }
 
-@media(max-width: ) { 
-    
-}
 @media (max-width: 786px) {
     .checkbtn {
         display: block;
